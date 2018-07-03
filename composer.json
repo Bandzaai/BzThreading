@@ -1,5 +1,5 @@
 {
-	"name" : "bandzaai/threading",
+	"name" : "bandzaai/bzthreading",
 	"description" : "PCNTL multiprocess manager",
 	"authors" : [{
 			"name" : "Breogán Esculta",
